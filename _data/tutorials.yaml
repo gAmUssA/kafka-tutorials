@@ -302,3 +302,14 @@ console-consumer-read-specific-offsets-partition:
     ksql: disabled
     kstreams: disabled
     kafka: enabled
+
+my-asciidoc-example:
+  title: "I NEED TO BE UPDATED"
+  meta-description: "I NEED TO BE UPDATED"
+  slug: "/ceo-friendly-link-to-my-tutorial"
+  problem: "I NEED TO BE UPDATED"
+  introduction: "I NEED TO BE UPDATED"
+  status:
+    ksql: enabled
+    kstreams: disabled
+    kafka: disabled

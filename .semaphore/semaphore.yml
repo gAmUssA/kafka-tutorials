@@ -224,3 +224,7 @@ blocks:
             - make -C _includes/tutorials/console-consumer-read-specific-offsets-partition/kafka/code tutorial
         
         
+        
+        - name: KSQL Run Forrest Run tests
+          commands:
+            - make -C _includes/tutorials/my-asciidoc-example/ksql/code tutorial
